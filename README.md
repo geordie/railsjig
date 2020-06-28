@@ -31,7 +31,13 @@ To use railsjig to rapidly get a database driven web application running:
 5. In a browser, navigate to your app at http://localhost
 
 6. Congratulations, you can now rapidly iterate on your data model and application code.
+
+# Details and Configuration
+
+- MySQL is currently the only supported database
+- The rails development database password is currently set to "password." I suggest changing this.
    
+
 
 
 
